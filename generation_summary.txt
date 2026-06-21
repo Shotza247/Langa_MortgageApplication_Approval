@@ -1,0 +1,6 @@
+rows=1500
+approval_counts={1: 750, 0: 750}
+applicant_rows=1500
+application_rows=1500
+approval_rows=1500
+final_rows=1500
